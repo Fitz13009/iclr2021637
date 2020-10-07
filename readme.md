@@ -6,7 +6,7 @@ this is the source code accompanying the ICLR 2021 Submission No. 637 "Bayesian 
 ## Installation
 We kindly ask you to clone this repository and run
 
-`conda env create -f requirements.yml`
+`conda env create -f environment.yml`
 
 to create a new conda environment named `bayesian_aggregation` with all python packages required to run the experiments.
 
