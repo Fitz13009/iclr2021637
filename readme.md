@@ -17,7 +17,7 @@ Weights are stored and re-used if this script is executed multiple times.
 
 The script is called from the command line as follows:
 
-`python ./evaluate_gps.py EXPERIMENT AGGREGATOR LIKELIHOOD_APPROXIMATION [-h]`
+`python ./train_evaluate_gps.py EXPERIMENT AGGREGATOR LIKELIHOOD_APPROXIMATION [-h]`
 
 Description of the arguments:
 1. `EXPERIMENT (str)`: the name of the experiment. Allowed values are:
